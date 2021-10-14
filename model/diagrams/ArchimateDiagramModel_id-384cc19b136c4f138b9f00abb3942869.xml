@@ -341,9 +341,9 @@
           href="AssignmentRelationship_id-3e979ffd18fb43c3960fe9a2776b8843.xml#id-3e979ffd18fb43c3960fe9a2776b8843"/>
     </sourceConnections>
     <bounds
-        x="59"
+        x="34"
         y="236"
-        width="108"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -362,9 +362,9 @@
           href="AssignmentRelationship_id-c53036d0290c442aaaa45675a622d333.xml#id-c53036d0290c442aaaa45675a622d333"/>
     </sourceConnections>
     <bounds
-        x="58"
+        x="33"
         y="166"
-        width="109"
+        width="134"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -392,9 +392,9 @@
           href="AssignmentRelationship_id-d8a798bb1673477795abb511c81e5d4e.xml#id-d8a798bb1673477795abb511c81e5d4e"/>
     </sourceConnections>
     <bounds
-        x="59"
+        x="34"
         y="304"
-        width="109"
+        width="134"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
